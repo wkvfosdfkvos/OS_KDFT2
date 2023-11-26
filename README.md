@@ -2,7 +2,6 @@
 <h4 align="right">
     <p>
         | <b>English</b> |
-        <a href="https://github.com/Jungwoo4021/OS-KDFT/blob/main/readme/README_ko.md">한국어</a> |
     </p>
 </h4>
 
@@ -26,6 +25,7 @@
 Pytorch code for following paper:
 * **Title** : FURTHER IMPROVEMENT TO ONE-STEP KNOWLEDGE DISTILLATION AND TARGET TASK FINE-TUNING
 * **Autor** :  Jungwoo Heo, Chan-yeong Lim, Ju-ho Kim, Hyun-seo Shin, Jae-han Park, and Ha-Jin Yu
+This repository presents pre-compression, post-compression, and OS-KDFT2 experiments that build lightweighted HuBERT models suitable for speaker verification based on the DistilHuBERT knowledge distillation method. 
 
 ## About OS-KDFT2
 One-step knowledge distillation and fine-tuning (OS-KDFT2) is a training strategy that performs an audio pre-trained large model (such as wav2vec2.0, HuBERT) compression and fine-tuning to get a compressed task-specialized model. 
