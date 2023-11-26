@@ -25,6 +25,7 @@
 Pytorch code for following paper:
 * **Title** : FURTHER IMPROVEMENT TO ONE-STEP KNOWLEDGE DISTILLATION AND TARGET TASK FINE-TUNING
 * **Autor** :  Jungwoo Heo, Chan-yeong Lim, Ju-ho Kim, Hyun-seo Shin, Jae-han Park, and Ha-Jin Yu
+
 This repository presents pre-compression, post-compression, and OS-KDFT2 experiments that build lightweighted HuBERT models suitable for speaker verification based on the DistilHuBERT knowledge distillation method. 
 
 ## About OS-KDFT2
